@@ -102,3 +102,12 @@ src/
 ## License
 
 MIT
+
+---
+
+## Keywords
+
+> *For the search engines and the curious humans who find things by typing random words*
+
+website template, Next.js template, EdTech template, education website, SaaS landing page template, Tailwind CSS template, clone website design, RevisionDojo clone, exam prep website, learning platform template, TypeScript website template, Framer Motion animations, rebrandable website template, white-label website, single config website, production-grade template, responsive website template, React website template, startup landing page, Y Combinator style website
+
